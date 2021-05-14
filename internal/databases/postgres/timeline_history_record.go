@@ -11,7 +11,7 @@ import (
 
 	"github.com/jackc/pgx"
 	"github.com/pkg/errors"
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 	"github.com/wal-g/tracelog"
 )
 

@@ -3,7 +3,7 @@ package internal
 import (
 	"time"
 
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 )
 
 // GenericMetadata allows to obtain some basic information

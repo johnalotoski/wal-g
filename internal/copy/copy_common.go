@@ -3,7 +3,7 @@ package copy
 import (
 	"sync"
 
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 	"github.com/wal-g/tracelog"
 )
 

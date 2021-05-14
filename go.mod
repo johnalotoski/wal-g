@@ -1,4 +1,4 @@
-module github.com/wal-g/wal-g
+module github.com/johnalotoski/wal-g
 
 go 1.13
 
@@ -34,6 +34,7 @@ require (
 	github.com/jackc/pgx v3.6.0+incompatible
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
 	github.com/jessevdk/go-flags v1.4.0 // indirect
+	github.com/johnalotoski/storages v0.0.0-20210514203407-10408e14d32d // indirect
 	github.com/kisielk/errcheck v1.2.0 // indirect
 	github.com/lib/pq v1.3.0 // indirect
 	github.com/magiconair/properties v1.8.1
@@ -53,7 +54,6 @@ require (
 	github.com/spf13/viper v1.6.1
 	github.com/stretchr/testify v1.6.1
 	github.com/ulikunitz/xz v0.5.6
-	github.com/wal-g/storages v0.0.0-20210218090605-534397353a97
 	github.com/wal-g/tracelog v0.0.0-20190824100002-0ab2b054ff30
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c // indirect
 	github.com/xdg/stringprep v1.0.1-0.20180714160509-73f8eece6fdc // indirect

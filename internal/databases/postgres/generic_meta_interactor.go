@@ -2,7 +2,7 @@ package postgres
 
 import (
 	"github.com/pkg/errors"
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 	"github.com/wal-g/wal-g/internal"
 )
 

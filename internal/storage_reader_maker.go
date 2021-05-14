@@ -3,7 +3,7 @@ package internal
 import (
 	"io"
 
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 )
 
 // StorageReaderMaker creates readers for downloading from storage

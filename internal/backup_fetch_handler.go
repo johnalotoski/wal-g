@@ -8,7 +8,7 @@ import (
 	"github.com/wal-g/wal-g/utility"
 
 	"github.com/pkg/errors"
-	"github.com/wal-g/storages/storage"
+	"github.com/johnalotoski/storages/storage"
 	"github.com/wal-g/tracelog"
 )
 
